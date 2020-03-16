@@ -1,0 +1,13 @@
+{
+    "name": "jonathan-up/ele",
+    "description": "API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JonathanHW",
+            "email": "joker_net@qq.com"
+        }
+    ],
+    "require": {}
+}
