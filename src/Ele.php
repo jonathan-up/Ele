@@ -9,7 +9,7 @@
 // | Date: 2020年03月17日
 // +----------------------------------------------------------------------
 
-namespace JonathanUp\Ele;
+namespace JonathanUp;
 
 class Ele
 {
