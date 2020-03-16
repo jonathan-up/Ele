@@ -1,6 +1,9 @@
 {
     "name": "jonathan-up/ele",
     "description": "这是为亿乐社区API封装的一个操作类",
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    },
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -9,7 +12,5 @@
             "email": "77266837@qq.com"
         }
     ],
-    "require": {
-        "guzzlehttp/guzzle": "~6.0"
-    }
+    "minimum-stability": "dev"
 }
