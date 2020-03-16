@@ -3,5 +3,5 @@
 
 ----
 
-##安装
+## 安装
 composer require jonathan-up/ele dev-master
