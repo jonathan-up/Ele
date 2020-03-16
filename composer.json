@@ -9,5 +9,10 @@
             "name": "Jonathan.Liu",
             "email": "77266837@qq.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "jonathan-up\\ele": "src"
+        }
+    }
 }
