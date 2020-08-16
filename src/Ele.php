@@ -13,9 +13,9 @@ namespace JonathanUp;
 
 class Ele
 {
-    public $url;
-    public $api_token;
-    public $key;
+    protected $url;
+    protected $api_token;
+    protected $key;
 
     public function __construct($url, $api_token, $key)
     {
@@ -135,7 +135,7 @@ class Ele
      *
      * @return bool|string
      */
-    public function httpPost($url, $data)
+    protected function httpPost($url, $data)
     {
         $ch = curl_init();
         curl_setopt($ch, CURLOPT_URL, $url);

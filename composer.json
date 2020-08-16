@@ -1,7 +1,9 @@
 {
     "name": "jonathan-up/ele",
     "description": "这是为亿乐社区API封装的一个操作类",
-    "require": {},
+    "require": {
+      "ext-curl": "*"
+    },
     "type": "library",
     "license": "MIT",
     "authors": [
