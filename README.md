@@ -5,4 +5,4 @@
 ----
 
 ## 安装
-composer require jonathan-up/ele dev-master
+composer require jonathan-up/ele
